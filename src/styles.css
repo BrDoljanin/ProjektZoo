@@ -1,0 +1,192 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+body {
+  background-color: #52ed5f;
+  padding: 0;
+  margin: 0;
+}
+.nav {
+  background-color: white;
+}
+.link1{
+  text-decoration: none;
+  padding-right: 20px;
+  font-size: 16px;
+  color: green;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.link1:hover{
+  color: rgb(153, 255, 0);
+}
+.header{
+  display: flex;
+  flex-direction: column;
+}
+.border {
+  padding: 50px 0;
+  color: #099415;
+  
+  font-family: cursive;
+
+  border-top: 25px solid;
+  background-color: #8bea93;
+  border-bottom: 25px solid;
+}
+
+.logo {
+  width: 100px;
+  padding-right: 1350px;
+}
+.prva {
+  width: 55%;
+}
+.razmak {
+  padding-bottom: 5px;
+  border-bottom: 3px solid rgb(45, 130, 45);
+}
+.tekstu {
+  width: 35%;
+  font-size: 20px;
+  padding: 55px;
+  margin-left: 100px;
+  margin-top: 75px;
+  float: left;
+  background-color: #a1f3a7;
+  border-radius: 50px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  line-height: 25px;
+}
+.slikaslon {
+  margin-top: 10px;
+  width: 750px;
+  border-radius: 15px;
+}
+.poplava {
+  margin-top: 50px;
+  margin-left: 100px;
+  width: 750px;
+  clear: both;
+  float: left;
+  border-radius: 15px;
+  vertical-align: center;
+}
+.tekstuu {
+  width: 35%;
+  padding: 55px;
+  font-size: 20px;
+  margin-top: 150px;
+  margin-right: 100px;
+  float: right;
+  background-color: #a1f3a7;
+  border-radius: 50px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  line-height: 25px;
+}
+.bg{
+  
+  display: flex;
+  flex-direction: row;
+  background-color:#a7cc42;
+  
+}
+.obale{
+  color: white;
+  width: 50%;
+  border-right: 10px solid;
+  height: 500px; 
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 18px;
+}
+.naaslov{
+  color: white;
+  font-size: 48px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.crta{
+  padding-bottom: 25px;
+  border-bottom: 5px solid;
+}
+.dobala{
+  margin-left: 180px;
+  float: left;
+  padding-right: 300px;
+}
+.lobala{
+  float: left;
+  margin-top: 1px;
+}
+.vrime{
+  margin: 0 auto;
+  font-size: 24px;
+  
+}
+.gurni{
+  padding-right: 50px;
+  
+}
+.obalee{
+  color: white;
+  width: 50%;
+  
+  height: 500px; 
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 18px;
+}
+.borderi{
+  border: 3px solid;
+}
+.gurnil{
+  padding-left: 50px;
+  
+}
+.zeleno{
+  background-color: #52ed5f;
+}
+.pozor{
+  margin: 0 auto;
+  padding-top: 50px;
+  color: red;
+}
+.tekstt{
+  color: white;
+}
+.slikica{
+  margin-left:300px;
+  width: 500px;
+  height: 400px;
+}
+.footer{
+  background-color: #b1ffb7;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  border-bottom: 2px solid white;
+}
+.footerlivo{
+  
+  float: left;
+  margin-left: 400px;
+}
+.makni{
+  margin-left: 800px;
+}
+.ispod{
+  padding-top: 25px;
+  border-bottom: 15px solid green;
+}
+.ispoda{
+  padding-top: 6px;
+  border-bottom: 15px solid green;
+}
+.tekst{
+  font-size: 18px;
+}
+.copy{
+  height: 21px;
+  background-color: white;
+}
+.copyright{
+  margin-left: 600px;
+}
